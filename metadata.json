@@ -1,0 +1,10 @@
+{
+  "name": "워크숍 산출물 자동 분석 시스템",
+  "description": "워크숍 수기 데이터를 AI로 분석하여 구글 스프레드시트에 자동으로 기록하는 시스템",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "vision"
+  ]
+}
